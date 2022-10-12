@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LappA17
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning JavaScript(React), TypeScript(NodeJS)
+- 👀 I’m interested in Front-end and Back-end development
+- 🌱 I’m currently learning JavaScript(NodeJS)
 - 💞️ I’m looking to collaborate on big company with big project with using newest technology
 - 📫 How to reach me, here is contacts:
       1)LinkedIn: https://www.linkedin.com/in/ruslan-postoiuk-4171a4231/
