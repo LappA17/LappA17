@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LappA17
+- 👋 Hi, I’m Ruslan Postoiuk. My username is @LappA17. I am from Ukraine 🇺🇦
 - 👀 I’m interested in Front-end and Back-end development
 - 🌱 I’m currently learning JavaScript(NodeJS)
 - 💞️ I’m looking to collaborate on big company with big project with using newest technology
