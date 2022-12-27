@@ -6,9 +6,3 @@
       1)LinkedIn: https://www.linkedin.com/in/ruslan-postoiuk-4171a4231/
       2)Instagram: https://www.instagram.com/postoiuk17/
       3)Gmail: ruslan.postoyuk@gmail.com
-
-<!---
-LappA17/LappA17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://www.codewars.com/users/LappA17/badges/large
